@@ -1,12 +1,12 @@
-## Hi there 👋
+<h1 align="center">reFlowBot</h1>
+<p align="center"><img src="icon.png" width="128"></p>
+<p align="center"><a href="https://discord.gg/reflow"><img src="https://discordapp.com/api/guilds/825947471750234152/widget.png?style=shield"></a></p>
 
-<!--
+Welcome to the official reFlowBot GitHub organisation, the bots which power the reFlow Community Discord server.
 
-**Here are some ideas to get you started:**
+### Bots
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| Bot                                                             | Purpose                                                            |
+|-----------------------------------------------------------------|--------------------------------------------------------------------|
+| [Hammer](https://github.com/reFlowBot/Hammer)                   | Manages infractions against misbehaving users                      |
+| [EmbedBot](https://github.com/reFlowBot/EmbedBot)               | Creates embeds                                                     |
