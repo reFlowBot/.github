@@ -9,4 +9,4 @@ Welcome to the official reFlowBot GitHub organisation, the bots which power the 
 | Bot                                                             | Purpose                                                            |
 |-----------------------------------------------------------------|--------------------------------------------------------------------|
 | [Hammer](https://github.com/reFlowBot/Hammer)                   | Manages infractions against misbehaving users                      |
-| [EmbedBot](https://github.com/reFlowBot/EmbedBot)               | Creates embeds                                                     |
+| [EmbedBot](https://github.com/reFlowBot/EmbedBot)               | Creating and managing embeds.                                      |
