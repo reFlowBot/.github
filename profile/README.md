@@ -10,3 +10,4 @@ Welcome to the official reFlowBot GitHub organisation, the bots which power the 
 |-----------------------------------------------------------------|--------------------------------------------------------------------|
 | [Hammer](https://github.com/reFlowBot/Hammer)                   | Manages infractions against misbehaving users                      |
 | [EmbedBot](https://github.com/reFlowBot/EmbedBot)               | Creating and managing embeds.                                      |
+| [Librarian](https://github.com/reFlowBot/Librarian)             | Creating and managing bookmarks.                                   |
