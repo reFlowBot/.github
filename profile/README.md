@@ -9,6 +9,7 @@ Welcome to the official reFlowBot GitHub organisation, the bots which power the 
 | Bot                                                             | Purpose                                                            |
 |-----------------------------------------------------------------|--------------------------------------------------------------------|
 | [Hammer](https://github.com/reFlowBot/Hammer)                   | Manages infractions against misbehaving users                      |
-| [EmbedBot](https://github.com/reFlowBot/EmbedBot)               | Creating and managing embeds.                                      |
-| [Librarian](https://github.com/reFlowBot/Librarian)             | Creating and managing bookmarks.                                   |
+| [EmbedBot](https://github.com/reFlowBot/EmbedBot)               | Creating and managing embeds                                       |
+| [Librarian](https://github.com/reFlowBot/Librarian)             | Creating and managing bookmarks                                    |
 | [Stopwatch](https://github.com/reFlowBot/Stopwatch)             | Automatic slow-mode management                                     |
+| [Present](https://github.com/reFlowBot/Present)                 | Creating and managing giveaways                                    |
