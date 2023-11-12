@@ -13,3 +13,4 @@ Welcome to the official reFlowBot GitHub organisation, the bots which power the 
 | [Librarian](https://github.com/reFlowBot/Librarian)             | Creating and managing bookmarks                                    |
 | [Stopwatch](https://github.com/reFlowBot/Stopwatch)             | Automatic slow-mode management                                     |
 | [Present](https://github.com/reFlowBot/Present)                 | Creating and managing giveaways                                    |
+| [Shield](https://github.com/reFlowBot/Shield)                   | Manages Developer World access                                     |
